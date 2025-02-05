@@ -8,7 +8,7 @@
 
 1. Clone repo dan masuk ke folder
     ```
-    https://github.com/yogik23/skw-wallet
+    git clone https://github.com/yogik23/skw-wallet
     ```
 2. Pilih Wallet yg ingin dibuat
     ```
